@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my portfolio using React
+🔭 I’m currently working on building my portfolio using React
 - 🌱 I’m currently learning all that I can about React/JS, and am starting to learn Python!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
